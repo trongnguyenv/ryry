@@ -1,0 +1,25 @@
+.logo_txt {
+  font-size: 30px;
+  font-weight: 700;
+  color: rgb(94, 192, 143);
+  padding-left: 20px;
+}
+
+.container {
+  display: flex;
+  /* Otherwise the clickable area for the logo is to wide */
+  width: fit-content;
+  cursor: pointer;
+}
+
+.img {
+  height: 40px;
+}
+
+.subtitle {
+  color: #202135;
+  font-weight: 700;
+  word-wrap: break-word;
+  text-align: center;
+  padding-left: 25px;
+}
