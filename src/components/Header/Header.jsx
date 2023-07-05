@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import s from "./style.module.css";
-import logoSrc from "assets/images/favicon.ico";
+import logoSrc from "assets/icons/favicon.ico";
 import { Logo } from "components/logo";
 
 export function Header(props) {
